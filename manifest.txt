@@ -1,0 +1,3 @@
+outputs/figs/ep_reward_ma.png
+outputs/figs/ep_tc_ma.png
+outputs/figs/ep_cost_components.png
